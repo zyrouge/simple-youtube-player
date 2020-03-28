@@ -6,6 +6,10 @@ Made with Electron & Vuejs
 
 Visit [Release page](https://github.com/zyrouge/simple-youtube-player/releases/) to download SYP!
 
+## Help
+
+[Mail me](mailto:dev@zyrouge.gq) or join our [Discord Server](https://zyrouge.gq/discord) or create an Issue.
+
 ## Project setup
 ```
 yarn install
