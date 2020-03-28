@@ -1,5 +1,11 @@
 # Simple YouTube Player
 
+Made with Electron & Vuejs
+
+## Download
+
+Visit [Release page](https://github.com/zyrouge/simple-youtube-player/releases/) to download SYP!
+
 ## Project setup
 ```
 yarn install
