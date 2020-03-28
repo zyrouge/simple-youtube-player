@@ -1,4 +1,4 @@
-# ytplayer
+# Simple YouTube Player
 
 ## Project setup
 ```
